@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi 👋 I am Aishee Mandal 
+*   💻️ **Currently studying:** B.Tech Computer Science & Engineering.
+*   🎨 **Hobbies:** Coding, Drawing, Reading books, Dancing, Gaming.
+## 🔗 Connect with me
+・ **LinkedIn:** [aishee-mandal](https://www.linkedin.com/in/aishee-mandal/) ・ **Email:** ashmdl09@gmail.com
 
 <!--
 **AisheeM26/AisheeM26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
